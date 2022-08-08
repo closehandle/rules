@@ -19,7 +19,7 @@ DOMAIN,edge.steam-dns-2.top.comcast.net
 DOMAIN,steam.naeu.qtlglb.com
 DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steam.ix.asn.au
-DOMAIN,steam.eca.qtlglb.com 
+DOMAIN,steam.eca.qtlglb.com
 DOMAIN,steam.cdn.on.net
 DOMAIN,update5.dota2.wmsj.cn
 DOMAIN,update2.dota2.wmsj.cn
@@ -39,6 +39,8 @@ DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,content.steampowered.com
 DOMAIN-SUFFIX,hsar.steampowered.com.edgesuite.net
 DOMAIN-SUFFIX,akamai.steamstatic.com
+DOMAIN-SUFFIX,cs.steampowered.com
+DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,edgecast.steamstatic.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steam-content-dnld-1.apac-1-cdn.cqloud.com
